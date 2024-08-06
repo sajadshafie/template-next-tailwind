@@ -1,0 +1,83 @@
+{
+  "storybook": {
+    "components": {
+      "core": {
+        "TextField": {
+          "label": "فیلد متنی",
+          "helperText": "فیلد متنی دارای خطا می باشد"
+        },
+        "Typography": {
+          "message": "تایپ گرافی"
+        },
+        "Tooltip": {
+          "title": "نوشته متنی"
+        },
+        "Button": {
+          "label": "دکمه"
+        },
+        "CheckboxLabel": {
+          "label": "چک باکس بهمراه برچسب"
+        },
+        "RadioGroupLabel": {
+          "label": "رادیو گروه بهمراه برچسب",
+          "list-item-1": "آیتم اول",
+          "list-item-2": "آیتم دوم",
+          "list-item-3": "آیتم سوم",
+          "list-item-4": "آیتم چهارم",
+          "helperText": "رادیو گروه دارای خطا می باشد"
+        },
+        "Slider": {
+          "label": "اسلایدر"
+        },
+        "Select": {
+          "label": "انتخاب کنید"
+        },
+        "Popover": {
+          "label": "پاپ اور به همراه چیلدرن"
+        },
+        "Dialog": {
+          "label": "دیالوگ",
+          "opened": "دیالوگ باز شده"
+        },
+        "SwitchLabel": {
+          "defaultChecked": "پیش فرض انتخاب شده",
+          "disabled": "غیر فعال",
+          "labelplacement": "برچسب گذاری"
+        },
+        "Link": {
+          "link": "لینک"
+        },
+        "Chip": {
+          "message": "برچسب چیپ"
+        },
+        "Autocomplete": {
+          "label": "برپسب تکمیل خودکار",
+          "options": {
+            "first": "اولی",
+            "second": "دومی",
+            "third": "سومی",
+            "fourth": "چهارمی"
+          }
+        },
+        "Skeleton": {
+          "text": "اسکلت متنی",
+          "Circular": "اسکلت گرد",
+          "Rectangular": "اسکلت مسطتیل",
+          "Rounded": "اسکلت گرد شده"
+        },
+
+        "ProcessLoading": {
+          "messageLoading": "در حال پردازش اطلاعات",
+          "messageError": "خطا در پردازش اطلاعات",
+          "messageNotfound": "اطلاعات یافت نشد",
+          "labelErrorButton": "تلاش مجدد"
+        }
+      }
+    }
+  },
+  "error_messages": {
+    "autocomplete_min": "autocomplete need at least 3",
+    "autocomplete_req": "autocomplete is required",
+    "textField_req": "textField is required"
+  }
+}

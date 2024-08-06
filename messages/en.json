@@ -1,0 +1,82 @@
+{
+  "storybook": {
+    "components": {
+      "core": {
+        "TextField": {
+          "label": "Text Field",
+          "helperText": "Text Field has error"
+        },
+        "Typography": {
+          "message": "Typography"
+        },
+        "Tooltip": {
+          "title": "Tooltip"
+        },
+        "Button": {
+          "label": "Button"
+        },
+        "CheckboxLabel": {
+          "label": "Checkbox Label"
+        },
+        "RadioGroupLabel": {
+          "label": "Radio Group Label",
+          "list-item-1": "First Item",
+          "list-item-2": "Second Item",
+          "list-item-3": "Third Item",
+          "list-item-4": "Fourth Item",
+          "helperText": "Checkbox Label has error"
+        },
+        "Slider": {
+          "label": "Slider"
+        },
+        "Select": {
+          "label": "Select"
+        },
+        "Popover": {
+          "label": "Popover with children"
+        },
+        "Dialog": {
+          "label": "ِDialog",
+          "opened": "Dialog Open"
+        },
+        "SwitchLabel": {
+          "defaultChecked": "defaultChecked",
+          "disabled": "disabled",
+          "labelplacement": "labelplacement"
+        },
+        "Link": {
+          "link": "Link"
+        },
+        "Chip": {
+          "message": "Chip Label"
+        },
+        "Autocomplete": {
+          "label": "Autocomplete Label",
+          "options": {
+            "first": "first",
+            "second": "second",
+            "third": "third",
+            "fourth": "fourth"
+          }
+        },
+        "Skeleton": {
+          "text": "Skeleton Text",
+          "Circular": "Skeleton Circular",
+          "Rectangular": "Skeleton Rectangular",
+          "Rounded": "Rounded"
+        },
+        "ProcessLoading": {
+          "messageLoading": "Processing information",
+          "messageError": "Data processing error",
+          "messageNotfound": "Information not found",
+          "labelErrorButton": "Try again"
+        }
+      }
+    }
+  },
+  "error_messages": {
+    "autocomplete_min": "autocomplete need at least 3",
+    "autocomplete_req": "autocomplete is required",
+    "textField_req": "textField is required"
+  }
+}
